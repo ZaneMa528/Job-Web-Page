@@ -2,7 +2,11 @@
 
 This is the jobs web React project have Full CRUD. use react react-router tailwind css.
 
-<img src="public/screen.png" />
+
+![Screenshot 2024-04-19 165911](https://github.com/ZaneMa528/Job-Web-Page/assets/154416915/5cef2429-fced-4bef-8cf1-1720c07eb6f7)
+
+
+![Screenshot 2024-04-19 165942](https://github.com/ZaneMa528/Job-Web-Page/assets/154416915/b64b4aaa-9b48-43d7-aa39-dc2969e299bb)
 
 ## Usage
 
